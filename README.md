@@ -317,5 +317,6 @@ https://github.com/vijaykumargowdakk/Django_workshop/blob/main/README%20APP2.md
 >app1\views.py
 >app1\urls.py  (new file to be created)
 > templates\app1\index.html  (new file to be created within templates folder and within app1 folder)
+![image](https://github.com/AmritSivanandan/1RF21IS067-FD-/assets/91306362/3c4adbfb-2502-43db-ab68-89054a290c1f)
 
 
